@@ -1,4 +1,4 @@
-#Fitness app
+# Fitness app
 
 ```bash
 npm install
